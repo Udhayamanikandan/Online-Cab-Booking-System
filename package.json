@@ -1,0 +1,19 @@
+{
+  "name": "online-cab-booking-system",
+  "version": "1.0.0",
+  "description": "A web-based cab booking application with role-based access for Passengers, Drivers, Admins and Super Admins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Udhayamanikandan/Online-Cab-Booking-System.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Udhayamanikandan/Online-Cab-Booking-System/issues"
+  },
+  "homepage": "https://github.com/Udhayamanikandan/Online-Cab-Booking-System#readme"
+}
